@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukepielak
 - 👀 I’m interested in classical piano and computer programming
-- 🌱 I’m currently studying as a high school student and am aiming to study Computer Science at UBC
+- 🌱 I’m currently a grade 12 high school student and am aiming to study Computer Science at UBC
 - 📫 You can contact me through my email: lukepielak@gmail.com
 
 <!---
