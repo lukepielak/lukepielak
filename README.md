@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukepielak
 - 👀 I’m interested in classical piano, esports, and computer programming
-- 🌱I'm currently studying at UBC in the science program.
+- 🌱I'm currently studying at UBC.
 - 📫 You can contact me through my email: lukepielak@gmail.com
 
 <!---
